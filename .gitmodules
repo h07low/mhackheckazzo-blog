@@ -1,0 +1,3 @@
+[submodule "themes/chirpy"]
+	path = themes/chirpy
+	url = https://github.com/geekifan/hugo-theme-chirpy.git
